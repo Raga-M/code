@@ -1,0 +1,114 @@
+*{
+    padding:0;
+    margin:0;
+    box-sizing:border-box;
+
+}
+.hero
+{
+    height: 100vh;
+    width:100%;
+    background-image:url(images/bg.jpg);
+    background-size: cover;
+    background-position:center;
+}
+
+    marquee
+    {text-size-adjust:bold ;
+    color:red;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+     }    
+h2{
+    color:green;
+}
+.c2
+{
+color: rgb(239, 55, 110);
+background-color: rgba(209, 11, 0, 0.1);
+}
+.c1
+{
+    background-color: rgb(42, 222, 135);
+color: rgb(46, 55, 214);
+}  
+.c
+{font-size: medium;
+    font-weight: bold;
+    color:rgba(254, 3, 3, 0.986)
+    border:200%;
+}
+.c4{border-width:50%;
+    padding:5px ;
+ background-color: rgb(4, 4, 4);
+    text-align: right;
+}
+.c4 a{  color:blue;
+    text-decoration: none;
+ padding:10px;
+ border-radius:100%;
+margin:5px ;
+text-shadow: 1px 0.5px rgb(219, 35, 35);
+ transition-delay: 2ms;
+
+}
+.c4 a:hover
+{
+background-color:rgb(11, 11, 11);
+color:rgb(252, 10, 10);
+transform:scale(1,1) ;
+
+}
+.c3 a{
+    text-decoration:none ;
+
+}
+.c3 a:hover
+{
+background-color:wheat ;
+}
+.bts:hover
+{
+background-color:black;
+color:red;
+ 
+border:50px ;
+}
+.title h2
+{
+color: rgb(15, 15, 15);
+font-weight: 800;
+    padding: 3%;
+}
+.box
+{color:beige;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.card
+{
+    height: 150px;
+    width:270px;
+    background:rgb(11, 11, 11);
+    border-radius:25px ;
+    margin: 12px;
+}
+.card:hover
+{
+    background-color: rgb(46, 46, 45);
+    border-radius:50px ;
+    margin: 12px;
+    transition-delay:0.1s ;
+}
+   
+.para p{
+    color:red;
+    font-size: 20px ;
+    margin-bottom:20px;
+}
+.card i{
+    color:red;
+    font-size: 25px;
+    text-align: center;
+    margin:5px 00px;
+}
