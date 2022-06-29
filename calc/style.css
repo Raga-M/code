@@ -1,6 +1,8 @@
 
     
-.calc_form{  width:40vh;
+.calc_form{ 
+    min-width:40vh;
+    width:40vh;
  height:40vh;
    
     padding:3px 3px 3px 3px;
