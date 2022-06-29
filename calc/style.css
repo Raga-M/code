@@ -19,6 +19,11 @@
 .no
 {
  text-align: center;
+ min-width: 10vh;
+ min-height:10vh;
+ width: 35vh;
+ height: 38vh;
+ position:absolute;
 }
  #cal
 {
