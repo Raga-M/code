@@ -1,12 +1,7 @@
-@media screen {
- 
-  
-max-width: 480px;
 
     
-}
-    
-.calc_form{  width:50%;
+.calc_form{  width:40vh;
+ height:40vh;
    
     padding:3px 3px 3px 3px;
     position:absolute;
