@@ -1,0 +1,23 @@
+td{
+    height:50px;
+    width: 55px;
+    text-align: center;
+    font-size: 40px;
+}
+#white
+{
+    background-color: aliceblue;
+}
+#black
+{
+    background-color:gray;
+}
+table
+{
+    border:5px solid black;
+}
+h1{
+    width:200px;
+    background-color:black ;
+    color: red;
+}
